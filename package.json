@@ -21,7 +21,7 @@
     "@jiman24/discordjs-button": "^0.1.0",
     "@jiman24/discordjs-pagination": "^0.0.8",
     "@jiman24/discordjs-prompt": "^0.0.1",
-    "@jiman24/discordjs-rpg": "^3.3.0",
+    "@jiman24/discordjs-rpg": "^3.4.1",
     "@joshdb/core": "^1.2.7",
     "@joshdb/sqlite": "^1.1.9",
     "body-parser": "^1.19.2",
