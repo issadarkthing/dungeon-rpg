@@ -35,7 +35,6 @@ export default class extends Command {
 
     const battle = new Battle(msg, random.shuffle([player, monster]));
 
-    battle.showBattle = false;
     battle.setInterval(500);
 
     const winner = await battle.run();
