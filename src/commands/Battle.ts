@@ -10,7 +10,6 @@ import { Item } from "../structure/Item";
 
 export default class extends Command {
   name = "battle";
-  block: boolean = true;
   description = "battle monsters";
   aliases: string[] = ["b"];
 
